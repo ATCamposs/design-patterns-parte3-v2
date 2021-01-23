@@ -20,3 +20,8 @@
     - https://refactoring.guru/pt-br/design-patterns/builder
     - https://wiki.c2.com/?TestDataBuilder
 
+ - **Prototype**
+    - Embora, nas explicações sobre o padrão Prototype, uma interface seja citada com um método clone(), por exemplo, vimos, com o exemplo do PHP, que uma interface nem sempre se faz necessária.
+    - O Prototype é um padrão de projeto criacional que permite copiar objetos existentes sem fazer seu código ficar dependente de suas classes.
+    - https://refactoring.guru/pt-br/design-patterns/prototype
+
