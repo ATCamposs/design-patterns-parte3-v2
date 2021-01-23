@@ -13,3 +13,10 @@
     - Se em algum momento tivermos objetos fortemente relacionados em nosso sistema, podemos separar a criação deles em uma única classe, para garantir que eles sejam criados sempre em conjunto com o seu "par" correto. Essa família de classes estendem o que é conhecida como Abstract Factory, por ser uma fábrica abstrata, que pode criar famílias de objetos, e não apenas um objeto específico.
     - O Abstract Factory é um padrão de projeto criacional que permite que você produza famílias de objetos relacionados sem ter que especificar suas classes concretas.
     - https://refactoring.guru/pt-br/design-patterns/abstract-factory
+
+ - **Builder**
+    - O padrão de projeto Builder é muito útil para construirmos objetos complexos, que não necessariamente conhecemos a implementação.
+    - O Builder é um padrão de projeto criacional que permite a você construir objetos complexos passo a passo. O padrão permite que você produza diferentes tipos e representações de um objeto usando o mesmo código de construção.
+    - https://refactoring.guru/pt-br/design-patterns/builder
+    - https://wiki.c2.com/?TestDataBuilder
+
